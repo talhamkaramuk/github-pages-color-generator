@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-pages-color-generator/static/css/main.1f2471a2.css",
+    "main.js": "/github-pages-color-generator/static/js/main.5ff1e20e.js",
+    "index.html": "/github-pages-color-generator/index.html",
+    "main.1f2471a2.css.map": "/github-pages-color-generator/static/css/main.1f2471a2.css.map",
+    "main.5ff1e20e.js.map": "/github-pages-color-generator/static/js/main.5ff1e20e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2471a2.css",
+    "static/js/main.5ff1e20e.js"
+  ]
+}
